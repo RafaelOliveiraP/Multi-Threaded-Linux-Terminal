@@ -1,7 +1,3 @@
-//para compilar: g++ SO2.cpp -o SO2 -lpthread
-//testar com ps -eLf
-//testar com ps -T -p 520
-
 #include <iostream>
 #include <sys/types.h>
 #include <unistd.h>
